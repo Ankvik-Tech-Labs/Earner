@@ -38,35 +38,35 @@ We propose the development of a Web3 freelancing platform built on blockchain te
 
 ## IV. Development Plan
 
-### Phase 1: Planning and Design (4 weeks)
+### Phase 1: Planning and Design
 - Conduct market research and user analysis.
 - Define platform architecture and user experience.
 - Establish development workflows and project timelines.
 
-### Phase 2: Smart Contract Development (8 weeks)
+### Phase 2: Smart Contract Development
 - Develop smart contracts for escrow, governance, reputation, and dispute resolution.
 - Integrate oracles for real-world data verification.
 
-### Phase 3: Frontend Development (8 weeks)
+### Phase 3: Frontend Development
 - Design and develop user interfaces for clients, freelancers, and arbitrators.
 - Implement encrypted messaging and file storage features.
 
-### Phase 4: Testing and Deployment (4 weeks)
+### Phase 4: Testing and Deployment
 - Conduct comprehensive testing, including unit testing, integration testing, and security auditing.
 - Deploy the platform on Polygon testnet for beta testing and community feedback.
 - Address any bugs or issues identified during testing.
 
-### Phase 5: Launch and Community Engagement (Ongoing)
+### Phase 5: Launch and Community Engagement
 - Launch the platform on Polygon mainnet.
 - Develop marketing and outreach strategies to attract users and onboard freelancers and clients.
 - Foster community engagement through forums, social media, and community events.
 
-### Phase 6: Continuous Improvement (Ongoing)
+### Phase 6: Continuous Improvement
 - Gather feedback from users and community members.
 - Iterate on platform features and functionality based on user feedback and market trends.
 - Explore partnerships and integrations with other DeFi and Web3 projects on Polygon.
 
-## V. Budget
+<!-- ## V. Budget
 
 ### Development Cost
 - Market Research and User Analysis: $5,000
@@ -79,24 +79,20 @@ We propose the development of a Web3 freelancing platform built on blockchain te
 - Testing and Security Audits: $20,000
 - Marketing and Community Engagement: $5,000
 - Miscellaneous Expenses: $5,000
-- **Total Budget:** $80,000
+- **Total Budget:** $80,000 -->
 
 ## VI. Timeline
 
-### Phase 1: Planning and Design (4 weeks)
-- Expected completion date: 05/01/2024
+### Phase 1: Planning and Design
 
-### Phase 2: Smart Contract Development (8 weeks)
-- Expected completion date: 06/01/2024
+### Phase 2: Smart Contract Development
 
-### Phase 3: Frontend Development (8 weeks)
-- Expected completion date: 08/01/2024
+### Phase 3: Frontend Development
 
-### Phase 4: Testing and Deployment (4 weeks)
-- Expected completion date: 11/01/2024
+### Phase 4: Testing and Deployment
 
-### Phase 5: Launch and Community Engagement (Ongoing)
-### Phase 6: Continuous Improvement (Ongoing)
+### Phase 5: Launch and Community Engagement
+### Phase 6: Continuous Improvement
 
 ## VII. Conclusion
 
@@ -108,13 +104,30 @@ The development of a Web3 freelancing platform on Polygon offers a transformativ
 - **Lead Developer:** [@Aviksaikat](https://github.com/Aviksaikat/) [Smart Contract Auditor, Systems Security Engineer, Lead Python Developer]
 
 ### Previous projects
+
+### Grants
 1. [bee-py](https://github.com/alienrobotninja/bee-py) (Ethereum Swarm Foundation)
 2. [swarm-cid-py](https://github.com/Aviksaikat/swarm-cid-py) (Ethereum Swarm Foundation)
 3. [bmt-py](https://github.com/Aviksaikat/bmt-py) (Ethereum Swarm Foundation)
+4. [mantaray-py](https://github.com/Ankvik-Tech-Labs/mantaray-py) (Ethereum Swarm Foundation)
+
+### Hired Work / Corporate Work 
+1. `Solana-Arb-Python`: Solana `n-hop`arbitrage Bot
+2. `Jupiter-Arb-Py`: Sonala `n-hop` bot using Jupiter aggregator
+3. `Ethereum-Arbitage-Bot`: Ethereum `n-hop` arbitage bot `MEV` proof  
+
+### Open-Source Contributions / Volunteer Work
+1. [ape-utils](https://github.com/Aviksaikat/ape-utils)
+2. [ape](https://github.com/ApeWorX/ape)
+
+### Personal Projects
+1. [Just_Fetch](https://github.com/Aviksaikat/Just_Fetch)
+2. [nipe_py](https://github.com/Aviksaikat/nipe_py)
+
 
 ## IX. Next Steps
 
-We seek support and collaboration from the Polygon community, investors, and stakeholders to bring this project to fruition. Together, we can build a decentralized freelancing platform that revolutionizes the way freelancers work and clients hire talent in the digital age.
+We will seek support and collaboration from the Polygon community, investors, and stakeholders to bring this project to fruition. Together, we can build a decentralized freelancing platform that revolutionizes the way freelancers work and clients hire talent in the digital age.
 
 ## X. Summary of Key Aspects
 
@@ -166,7 +179,7 @@ As of now, the project is still in the planning stage, and development has not y
   2. Finalize platform architecture and user experience design.
   3. Establish development workflows and project timeline.
 - **Timeline:** 4 weeks
-- **Budget:** $15,000
+<!-- - **Budget:** $15,000 -->
 - **KPIs:** Completion of market research, user analysis report, platform architecture document, and
 
  project timeline.
@@ -179,7 +192,7 @@ As of now, the project is still in the planning stage, and development has not y
   3. Develop and test reputation system smart contract.
   4. Integrate oracles for real-world data verification.
 - **Timeline:** 8 weeks
-- **Budget:** $20,000
+<!-- - **Budget:** $20,000 -->
 - **KPIs:** Successful development and testing of smart contracts, integration of oracles.
 
 **Milestone 3: Frontend Development**
@@ -189,7 +202,7 @@ As of now, the project is still in the planning stage, and development has not y
   2. Develop frontend for user interfaces.
   3. Implement encrypted messaging and file storage features.
 - **Timeline:** 8 weeks
-- **Budget:** $20,000
+<!-- - **Budget:** $20,000 -->
 - **KPIs:** Completion of UI design, development of user interfaces, implementation of encrypted messaging and file storage features.
 
 **Milestone 4: Testing and Deployment**
@@ -199,7 +212,7 @@ As of now, the project is still in the planning stage, and development has not y
   2. Deploy platform on Polygon testnet.
   3. Gather community feedback and address any identified issues.
 - **Timeline:** 4 weeks
-- **Budget:** $15,000
+<!-- - **Budget:** $15,000 -->
 - **KPIs:** Completion of testing and security auditing, successful deployment on Polygon testnet, community feedback collected and addressed.
 
 **Milestone 5: Launch and Community Engagement**
@@ -208,8 +221,8 @@ As of now, the project is still in the planning stage, and development has not y
   1. Launch platform on Polygon mainnet.
   2. Implement marketing and outreach strategies.
   3. Foster community engagement.
-- **Timeline:** Ongoing
-- **Budget:** $10,000
+- **Timeline:** TBD
+<!-- - **Budget:** $10,000 -->
 - **KPIs:** Successful launch on Polygon mainnet, user acquisition and onboarding metrics, community engagement metrics.
 
 **Milestone 6: Continuous Improvement**
@@ -218,11 +231,11 @@ As of now, the project is still in the planning stage, and development has not y
   1. Collect and analyze user feedback.
   2. Implement iterative improvements to platform features and functionality.
   3. Explore partnerships and integrations with other projects.
-- **Timeline:** Ongoing
-- **Budget:** $10,000
+- **Timeline:** TBD
+<!-- - **Budget:** $10,000 -->
 - **KPIs:** User feedback collected and analyzed, iterative improvements implemented, partnerships and integrations established.
 
-**Summary**
+<!-- **Summary**
 - **Total Budget:** $80,000
 - **Funding Allocation:**
   - Planning and Design: $15,000
@@ -230,7 +243,7 @@ As of now, the project is still in the planning stage, and development has not y
   - Frontend Development: $20,000
   - Testing and Deployment: $15,000
   - Launch and Community Engagement: $10,000
-  - Continuous Improvement: $10,000
+  - Continuous Improvement: $10,000 -->
 
 ### Conclusion
 
